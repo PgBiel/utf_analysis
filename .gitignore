@@ -1,0 +1,8 @@
+# CMake
+cmake-build-debug
+CMakeFiles
+_build
+
+# IDE
+*.iml
+.idea
